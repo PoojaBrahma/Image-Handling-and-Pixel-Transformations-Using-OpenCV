@@ -288,7 +288,8 @@ plt.show()
 
 
 
-![image](https://github.com/user-attachments/assets/f34966ee-21f9-4441-bdd4-36c3da71b89d)
+<img width="824" height="427" alt="image" src="https://github.com/user-attachments/assets/9a6fbbf9-ef86-4d59-8c44-96c5b25724fd" />
+
 
 
 
@@ -298,7 +299,8 @@ plt.show()
 1.Modify contrast using scaling factors 1.1 and 1.2
 
  
-![image](https://github.com/user-attachments/assets/998698a5-0d84-4f73-96d6-68421a529951)
+<img width="861" height="431" alt="image" src="https://github.com/user-attachments/assets/cba445db-1612-4bca-820c-4949d1f7f504" />
+
  
 
  **iv)** Generate Third Image Using Bitwise Operations.
@@ -309,7 +311,7 @@ plt.show()
 
 
 
-![image](https://github.com/user-attachments/assets/54d59ef6-9800-4ff4-af13-f15fd602d334)
+<img width="842" height="427" alt="image" src="https://github.com/user-attachments/assets/a4e23986-c424-4bc6-b0b1-6ea868d0e6ab" />
 
 
 
@@ -318,7 +320,8 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082425](https://github.com/user-attachments/assets/6db4d2a2-8b21-43e5-976a-8f199eebc8cc)
+<img width="281" height="433" alt="image" src="https://github.com/user-attachments/assets/93a74e1f-58fe-440b-a83b-2b2d9d2b882b" />
+
 
 
 
@@ -330,7 +333,8 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082414](https://github.com/user-attachments/assets/e5a79c38-d998-4ced-82d2-d750d465572d)
+<img width="814" height="431" alt="image" src="https://github.com/user-attachments/assets/0d1cc8ab-3943-4c8a-9826-00564994f2ec" />
+
 
 
 
@@ -340,7 +344,7 @@ plt.show()
 
 
 
-![Screenshot 2025-03-11 082402](https://github.com/user-attachments/assets/2e2034ed-8cc3-4855-a8cb-87632e161c80)
+<img width="510" height="433" alt="image" src="https://github.com/user-attachments/assets/dc63bce5-0ffa-4890-8f42-a599c38250ca" />
 
 
 
