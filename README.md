@@ -1,7 +1,7 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ## Program Developed By:
-## Name:** POOJA P  
-## Register Number:** 212224230195
+## Name: POOJA P  
+## Register Number: 212224230195
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
